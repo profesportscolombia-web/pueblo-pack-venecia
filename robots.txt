@@ -1,0 +1,3 @@
+# Pilot phase: search engines should not list this page. Remove these two lines at launch.
+User-agent: *
+Disallow: /
