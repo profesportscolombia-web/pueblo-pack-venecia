@@ -1,5 +1,5 @@
 // Service worker: saves the page so it opens without internet.
-const VERSION = 'pueblo-pack-venecia-v1';
+const VERSION = 'pueblo-pack-venecia-v2';
 const ARCHIVOS = [
   './', './index.html', './manifest.webmanifest',
   './iconos/icono-192.png', './iconos/icono-512.png', './iconos/icono-maskable-512.png', './iconos/apple-touch-icon.png'
